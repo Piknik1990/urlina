@@ -1,0 +1,7 @@
+urls:
+  - url: https://github.com
+  - url: https://github.com/nowhere/nowhere
+    code: 404
+  - url: https://github.com/settings/profile
+    code: 422
+    method: POST
